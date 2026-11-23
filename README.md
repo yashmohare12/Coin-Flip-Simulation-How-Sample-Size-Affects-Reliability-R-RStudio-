@@ -2,6 +2,8 @@
 
 Small samples can mislead; large samples reveal the true pattern, as long as the data is collected fairly
 Coin Flip Simulation: How Sample Size Affects Reliability (R / RStudio)
+
+
 <img width="684" height="706" alt="Rplot01" src="https://github.com/user-attachments/assets/d4284508-f557-420c-89df-090b02505fd2" />
 
 *2. Probability vs. experimental result*
@@ -12,6 +14,7 @@ Coin Flip Simulation: How Sample Size Affects Reliability (R / RStudio)
 - The more times you repeat an experiment, the closer your result gets to the true probability.
 - Your running-proportion plot showed this: it swings early, then settles near 0.5.
 - It does not mean tails are "due" after a streak of heads. The coin has no memory.
+- 
 <img width="1426" height="874" alt="Rplot" src="https://github.com/user-attachments/assets/4b07404e-abba-428c-9bfc-652ebf3d4151" />
 
 *4. Effect of sample size*
