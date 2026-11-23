@@ -46,6 +46,4 @@ Coin Flip Simulation: How Sample Size Affects Reliability (R / RStudio)
 *9. Final conclusion*
 > Small samples can mislead; large samples reveal the true pattern, as long as the data is collected fairly.
 
-*Next steps*
-- Try an unfair coin: rbinom(5000, 1, 0.7).
-- Do Part 3, the A/B test, to see how much data is enough.
+
