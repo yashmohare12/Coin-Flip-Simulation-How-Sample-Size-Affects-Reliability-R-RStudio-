@@ -1,4 +1,4 @@
-# Coin-Flip-Simulation-How-Sample-Size-Affects-Reliability-R-RStudio <img width="684" height="706" alt="Rplot01" src="https://github.com/user-attachments/assets/15e8590e-3fbe-4edb-87ce-d5f63929425f" />
+# Coin Flip Simulation How Sample Size Affects Reliability using  R-RStudio 
 
 Small samples can mislead; large samples reveal the true pattern, as long as the data is collected fairly
 Coin Flip Simulation: How Sample Size Affects Reliability (R / RStudio)
